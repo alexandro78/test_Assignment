@@ -1,0 +1,9 @@
+{   
+   "questionnaire": 
+   [
+    {"qn":"What is your marital status?", "reply":["Married", "Single"]},
+    {"qn":"Are you planning on getting married next year?", "reply":["Yes", "No"]},
+    {"qn":"How long have you been married?", "reply":["More than a year", "Less than a year"]},
+    {"qn":"Have you celebrated your one year anniversary?", "reply":["Yes", "No"]}
+    ]
+}

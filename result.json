@@ -1,0 +1,31 @@
+{
+    "paths": {
+        "number": 3,
+        "list": [
+            [
+                {
+                    "What is your marital status?": "Single"
+                },
+                {
+                    "Are you planning on getting married next year?": "No"
+                }
+            ],
+            [
+                {
+                    "What is your marital status?": "Single"
+                },
+                {
+                    "Are you planning on getting married next year?": "No"
+                }
+            ],
+            [
+                {
+                    "What is your marital status?": "Single"
+                },
+                {
+                    "Are you planning on getting married next year?": "No"
+                }
+            ]
+        ]
+    }
+}
